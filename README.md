@@ -1,8 +1,8 @@
 # Rust CSES
 
-CSES solutions.
+CSES solutions written in Rust
 
-written in Rust
+Problems are found there https://cses.fi/
 
 ## Dependencies
 
